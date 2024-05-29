@@ -1,0 +1,11 @@
+Model Information:
+* title:	Red And White Rocket
+* source:	https://sketchfab.com/3d-models/red-and-white-rocket-a929405aab3641169756beb6b11454ac
+* author:	remarkable.twitch (https://sketchfab.com/remarkable.twitch)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Red And White Rocket" (https://sketchfab.com/3d-models/red-and-white-rocket-a929405aab3641169756beb6b11454ac) by remarkable.twitch (https://sketchfab.com/remarkable.twitch) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
